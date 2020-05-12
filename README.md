@@ -24,7 +24,7 @@ authentication {
 
 Adding a gradle dependency: 
 ``` groovy
-implementation "com.desmondtzq.ktor:ktor-auth-firebase:1.0.0"
+implementation "com.desmondtzq.ktor:ktor-auth-firebase:1.0.1"
 ```
 
 ## License
